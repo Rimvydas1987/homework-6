@@ -1,6 +1,7 @@
-Homework Nr. 5
+Homework Nr. 6
 
-Reikia dviejų analogiškų fermų. Kiekvienas gyvulys fermoje turi turėti papildomą mygtuką - pereiti į kitą fermą
+Padaryti biblioteką iš online serverio.
+Sutvarkyti CSS ir padaryti nefunkcionuojantį mygtuką
 
 
 
